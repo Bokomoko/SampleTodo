@@ -1,7 +1,7 @@
 {
-  "name": "sampletodolist",
+  "name": "firstreactapp",
   "version": "1.0.0",
-  "description": "",
+  "description": "The very first React App with auto deploy to vercel",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
