@@ -1,7 +1,7 @@
 import React from "react";
 import "./styles.css";
-import MyInfo from "./MyInfo.js";
-import MyList from "./MyList.js";
+import MyInfo from "../components/MyInfo.js";
+import MyList from "../components/MyList.js";
 
 export default function App() {
   return (

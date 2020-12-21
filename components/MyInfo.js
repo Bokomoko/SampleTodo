@@ -5,6 +5,7 @@ export default function MyInfo() {
     <div>
       <h1>João Eurico</h1>
       <h2>aka Boko Moko</h2>
+      <p>Certified Carbon Unit</p>
     </div>
   );
 }
